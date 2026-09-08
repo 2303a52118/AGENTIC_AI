@@ -1,7 +1,24 @@
-# AGENTIC_AI# AGENTIC_AI
+# AGENTIC_AI
 
 This repository contains implementations and practical experiments related to **Agentic AI using LangChain**. The experiments focus on building AI agents, integrating external tools, managing conversational memory, and performing real-time web search.
+## 📦 Required Libraries
 
+The experiments in this repository use the following Python libraries:
+
+- `langchain` – Framework for building LLM applications and agents
+- `langchain-core` – Core LangChain components
+- `langchain-community` – Community integrations
+- `langchain-openai` – OpenAI-compatible LLM integration
+- `langchain-tavily` – Tavily web search integration
+- `python-dotenv` – Loading environment variables from `.env`
+- `openai` – OpenAI-compatible API client
+
+### Installation
+
+Install all required dependencies using:
+
+```bash
+pip install -r requirements.txt
 ## 📚 Experiments
 
 ### Building a Simple Question-Answering Agent Using LangChain
