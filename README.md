@@ -4,7 +4,7 @@ This repository contains implementations and practical experiments related to **
 
 ## 📚 Experiments
 
-### Experiment 2: Building a Simple Question-Answering Agent Using LangChain
+### Building a Simple Question-Answering Agent Using LangChain
 
 A basic AI agent is developed using LangChain to understand user queries and generate appropriate responses using an LLM.
 
@@ -16,7 +16,7 @@ A basic AI agent is developed using LangChain to understand user queries and gen
 
 ---
 
-### Experiment 3: AI-Powered Web Search Agent Using LangChain, Tavily, and OpenRouter AI
+### AI-Powered Web Search Agent Using LangChain, Tavily, and OpenRouter AI
 
 A real-time web search agent is developed by integrating the Tavily Search Tool with a LangChain agent and OpenRouter AI.
 
@@ -35,7 +35,7 @@ A real-time web search agent is developed by integrating the Tavily Search Tool 
 
 ---
 
-### Experiment 4: Conversational Memory Management Using LangChain and OpenRouter AI
+### Conversational Memory Management Using LangChain and OpenRouter AI
 
 A conversational AI agent is developed with memory management to maintain and use previous conversation history during interactions.
 
